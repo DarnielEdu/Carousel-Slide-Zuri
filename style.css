@@ -89,3 +89,8 @@
   from {opacity: .4}
   to {opacity: 1}
 }
+
+.slideshow-container {
+  max-height: 100%;
+  max-width: 100p%;
+}
